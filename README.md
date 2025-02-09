@@ -9,3 +9,6 @@ https://www.jb51.net/program/292775q0j.htm
 
 输入用户名，聊天室窗口先隐藏，除输入用户名后进才会显示
 
+本项目适合新手联系哈
+
+![./image/chat.png](./image/chat.png)
